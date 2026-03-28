@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "蜃気楼ニ問フ - Mirage of the mind",
+  "base_artist": "TOGENASHI TOGEARI",
+  "createdAt": "2026-03-28T13:56:30.155821Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "蜃気楼ニ問フ",
+      "artist": "TOGENASHI TOGEARI",
+      "has_synced": false,
+      "path": "select/01_蜃気楼ニ問フ_TOGENASHI_TOGEARI.txt"
+    }
+  ]
+}
