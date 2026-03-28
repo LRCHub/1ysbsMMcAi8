@@ -1,48 +1,51 @@
-# TOGENASHI TOGEARI – Mirage of the mind
+# TOGENASHI TOGEARI – 蜃気楼ニ問フ - Mirage of the mind
 
-> **歌詞登録ステータス：同期歌詞あり**
+> **歌詞登録ステータス：プレーン歌詞のみ**
 
-```lrc
-[00:21.26] Nani mo nai kokoro no naka
-[00:23.47] Boku no mune no okusoko ni
-[00:26.02] Uzukumatte yugande ita
-[00:28.26] Awa iro sentensei shinri
-[00:30.70] Doushite mo nariyamanai ano nitsuno oto ga
-[00:33.62] Komaku to kokoro sasatta mama
-[00:35.59] Zutto itai, itai na
-[00:38.06] Yami no soko e, ochite iku
-[00:41.83] Kobiritsuita rettou hitotsu, hitotsu hagashite
-[00:45.47] Mou nani mo ie ya shinai toka gomen da
-[00:48.08] Sakende shimaitai
-[00:49.97] Boku no koe ga yuraida kokoro ni fukai kizu o tsuketa nara
-[00:55.07] Yuganda sono ai wa
-[00:57.28] Dare ga aishite kuremasu ka?
-[01:00.17] Shirande sunda kokoro no naka ni tsumeato o kizami tsuketa
-[01:04.90] Kotae mo sonzai shinai sekai ni fuseikai bakari nage tsuketa
-[01:09.65] Agaite, mogaite, sakenda
-[01:21.65] 
-[01:16.32] Namae no nai senritsu ga
-[01:18.67] Boku no mune o kirisaite
-[01:21.14] Afuredashita kanjou ga
-[01:23.48] Kokoro o nuritsubushite iku
-[01:26.00] Taemanaku ranhansha shita koe to kotoba
-[01:28.85] Fukuzatsu ni karamiatta mama
-[01:30.84] Zutto tsurai, tsurai na
-[01:33.24] Miugoki sae kanawanai
-[01:43.74] 
-[01:47.01] Fujouri na kattou hitotsu, hitotsu kowashitai
-[01:51.00] Mou konna yowai jibun nante iya da
-[01:53.27] Tachikitte shimaitai
-[02:03.27] 
-[02:00.05] Te o nobashite sakenda
-[02:02.81] Kono koe wa kimi ni todoite masu ka?
-[02:05.37] Zankokuna unmei ni yubi o tatete
-[02:09.00] Me o korashita
-[02:10.25] Kuroku yodonda shikai no naka de
-[02:12.71] Kimi no koe o mitsuketan da
-[02:15.05] Kibou mo sonzai shinai sekai ni
-[02:17.55] Kazaranai kotoba hakisuteta
-[02:19.98] Itakute, tsurakute, kowashita
-[02:34.48] 
-[02:24.76] Agaite, mogaite, sakenda
+```
+何もない心の中 僕の胸の奥底に
+うずくまって歪んでいた
+淡色先天性心理
+どうしても鳴り止まない
+あの日の音が
+鼓膜と心刺さったまま
+ずっとイタイ、イタイな
+闇の底へ、堕ちていく
+こびりついた劣等
+一つ、一つ剥がして
+もう何も言えやしないとか御免だ
+叫んでしまいたい
+僕の声が揺らいだ心に
+深い傷をつけたなら
+歪んだその哀は誰が
+愛してくれますか?
+白んで澄んだ心の中に
+爪痕を刻みつけた
+答えも存在しない世界に
+不正解ばかり投げつけた
+足掻いて、もがいて、叫んだ
+♪
+名前のない旋律が
+僕の胸を切り裂いて
+溢れ出した感情が
+心を塗り潰していく
+絶え間なく乱反射した声と言葉
+複雑に絡み合ったまま
+ずっとツライ、ツライな
+身動きさえ叶わない
+♪
+不条理な葛藤 一つ、一つ壊したい
+もうこんな弱い自分なんて嫌だ
+断ち切ってしまいたい
+手を伸ばして叫んだ
+この声は君に届いてますか?
+残酷な運命に指を立てて
+目を凝らした
+黒く淀んだ視界の中で
+君の声を見つけたんだ
+希望も存在しない世界に
+飾らない言葉吐き捨てた
+痛くて、辛くて、壊した
+足掻いて、もがいて、叫んだ
+♪
 ```
